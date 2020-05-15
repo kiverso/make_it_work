@@ -8,4 +8,8 @@ class Project <ApplicationRecord
   def number_of_contestants
     contestants.length
   end
+
+  def average_contestant_experience
+    contestants.average(:years_of_experience).truncate(6).to_f
+  end
 end
