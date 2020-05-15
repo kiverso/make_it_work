@@ -241,13 +241,29 @@
       "/Users/kyleiverson/turing/2module/make_it_work/config/routes.rb": {
         "lines": [
           1,
-          null,
+          1,
           null
         ]
       },
       "/Users/kyleiverson/turing/2module/make_it_work/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/kyleiverson/turing/2module/make_it_work/spec/models/challenge_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -346,8 +362,23 @@
           1,
           null
         ]
+      },
+      "/Users/kyleiverson/turing/2module/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/kyleiverson/turing/2module/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1589555234
+    "timestamp": 1589557287
   }
 }
